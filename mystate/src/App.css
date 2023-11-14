@@ -1,0 +1,12 @@
+body {
+    margin-left: 1rem;
+    border-style: solid;
+    box-shadow: 11px 63px 49px 9px rgba(235,10,10,0.81);
+    -webkit-box-shadow: 11px 63px 49px 9px rgba(235,10,10,0.81);
+    -moz-box-shadow: 11px 63px 49px 9px rgba(235,10,10,0.81);
+}
+.x {
+    margin: 1rem;
+    border-style:solid;
+    box-shadow: 10px 10px lightblue;
+}
